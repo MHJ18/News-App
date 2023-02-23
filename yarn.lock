@@ -5997,6 +5997,11 @@ klona@^2.0.4, klona@^2.0.5:
   resolved "https://registry.yarnpkg.com/klona/-/klona-2.0.6.tgz#85bffbf819c03b2f53270412420a4555ef882e22"
   integrity sha512-dhG34DXATL5hSxJbIexCft8FChFXtmskoZYnoPWjXQuebWYCNkVeV3KkGegCK9CP1oswI/vQibS2GY7Em/sJJA==
 
+kute@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/kute/-/kute-1.0.0.tgz#2d85a11a791a46923c5109652a2dfad1ede34c15"
+  integrity sha512-ilNHS8IrXb7yjKJQQY8TFHeq0r0pZKUWXdbGLdzVZIUbKqfiDrDZTZSNCFBlQ/26E/4+mtK8hIN++6fH0IUuFA==
+
 language-subtag-registry@~0.3.2:
   version "0.3.22"
   resolved "https://registry.yarnpkg.com/language-subtag-registry/-/language-subtag-registry-0.3.22.tgz#2e1500861b2e457eba7e7ae86877cbd08fa1fd1d"
